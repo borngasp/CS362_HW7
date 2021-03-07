@@ -1,4 +1,4 @@
 
 
 def FizzBuzz(x):
-    pass
+    return str(x)
